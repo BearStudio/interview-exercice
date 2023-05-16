@@ -22,3 +22,5 @@ You have to build a listing of Marvel movies and tv shows.
 The list must be able to be filtered by type.
 
 Clicking on an item in the list triggers a navigation to a new details page for the selected item.
+
+This exercice must be done using the given stack (NextJS, Chakra UI, TanstackQuery)
